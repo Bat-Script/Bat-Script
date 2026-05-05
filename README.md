@@ -23,5 +23,5 @@
 
 <h1 align="center">I love it are you?</h1>
 <p align="center">some of the tools that I learned</p>
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bash,python,linux,windows,vscode,github,sqlite,figma,"></p>
