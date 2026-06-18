@@ -1,27 +1,37 @@
-<div align="center">
-    <h2 style="color:#a29bfe;">Hi, I am BatScript!</h2>
-    <p>
-      Creative developer passionate about building beautiful and useful things! Dont call me batsheit please bruh... batsheit is a github repo... Who create it??? Bruhh
-    </p>
-  </div>
-</div>
-
-
-<p>Hi! I'm batscript! I started to learn how to programming when I was <mark>8</mark>yrs old!  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae0/512.webp" alt="Melting" , width="20"/></p>
-<p>I'm Programmer and UI designer <img src =https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp , width = 20></p>
-<p>I like to learn languages to speak! <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f601/512.webp" , width= "20"></p>
-<p>I'm learning French , English , Arabic , Germany <img src = "https://fonts.gstatic.com/s/e/notoemoji/latest/1f973/512.webp", width = "20"></p>
-
-<hr>
-
-<h1 align="center">My GitHub Stats</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bat-Script&theme=tokyonight&show_icons=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bat-Script&theme=tokyonight" height="165" />
-</div>
-<hr>
-
-<h1 align="center">I love it are you?</h1>
-<p align="center">some of the tools that I learned</p>
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bash,python,linux,windows,vscode,github,sqlite,figma,"></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BatScript&fontSize=80&fontAlignY=35&animation=twinkling" />
+</p>
+
+<!-- MY TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Python-dev;UI/UX-Designer;CPP-Dev;Learning-ASM+%26;Blender+Animator;3D-designer;Building;Love-to-do-hard-things;Cool-Dev&font=Fira%20Code&center=true&width=440&height=45&color=ff69b4&vCenter=true&pause=0&size=22" />
+</p>
+
+<!-- BADGES & COUNTERS -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Bat-Script?style=for-the-badge&logo=github&color=0a0a0a&labelColor=ff69b4" />
+  <img src="https://img.shields.io/github/stars/Bat-Script?style=for-the-badge&logo=github&color=0a0a0a&labelColor=ff69b4" />
+  <img src="https://komarev.com/ghpvc/?username=Bat-Script&style=for-the-badge&color=ff69b4" />
+  <img src="https://img.shields.io/badge/Made_with-🦇_Love-ff69b4?style=for-the-badge" />
+</p>
+
+---
+
+## About Me ;)
+
+```python
+class BatScript:
+    def __init__(self):
+        self.name = "BatScript"
+        self.role = "Shit Developer"
+        self.location = "Somewhere between code and coffee [TRY ESPERSOOOO itz cool! I love it]"
+        self.learning.languages = ["French", "English", "Arabic", "German"]
+        self.current_obsession = "Building my own programming language (Vulpin) and going to do fucking shit hard things"
+        self.life = "I started to learn programming when I was 8 and when I was playing shit game then I told my self that I should not play games"
+        self.motto = "NOT CLEAN CODE!!! Just make it stable Bruh"
+    def say_hi(self):
+        print("GoodBye Bruh :| You can have connection with this email:")
+        print("batscript500@gmail.com")
+        print()
+        print("If you spam, I **** you so dont do that man :X ")
