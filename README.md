@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/Bat-Script?style=for-the-badge&logo=github&color=0a0a0a&labelColor=ff69b4" />
   <img src="https://img.shields.io/github/stars/Bat-Script?style=for-the-badge&logo=github&color=0a0a0a&labelColor=ff69b4" />
   <img src="https://komarev.com/ghpvc/?username=Bat-Script&style=for-the-badge&color=ff69b4" />
-  <img src="https://img.shields.io/badge/Made_with-🦇_Love-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made_with-_Love-ff69b4?style=for-the-badge" />
 </p>
 
 ---
