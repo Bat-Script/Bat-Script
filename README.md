@@ -24,14 +24,12 @@
 class BatScript:
     def __init__(self):
         self.name = "BatScript"
-        self.role = "Shit Developer"
+        self.role = "Cool Developer"
         self.location = "Somewhere between code and coffee [TRY ESPERSOOOO itz cool! I love it]"
         self.learning.languages = ["French", "English", "Arabic", "German"]
         self.current_obsession = "Building my own programming language (Vulpin) and going to do fucking shit hard things"
-        self.life = "I started to learn programming when I was 8 and when I was playing shit game then I told my self that I should not play games"
+        self.life = "Love Coffee, Cat, School"
         self.motto = "NOT CLEAN CODE!!! Just make it stable Bruh"
     def say_hi(self):
-        print("GoodBye Bruh :| You can have connection with this email:")
+        print("You can have connection with this email:")
         print("batscript500@gmail.com")
-        print()
-        print("If you spam, I **** you so dont do that man :X ")
