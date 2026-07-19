@@ -27,7 +27,7 @@ class BatScript:
         self.role = "Cool Developer"
         self.location = "Somewhere between code and coffee [TRY ESPERSOOOO itz cool! I love it]"
         self.learning.languages = ["French", "English", "Arabic", "German"]
-        self.current_obsession = "Building my own programming language (Vulpin) and going to do fucking shit hard things"
+        self.current_obsession = "Building my own programming language (Vulpin)"
         self.life = "Love Coffee, Cat, School"
         self.motto = "NOT CLEAN CODE!!! Just make it stable Bruh"
     def say_hi(self):
