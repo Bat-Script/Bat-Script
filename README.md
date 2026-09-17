@@ -29,7 +29,7 @@ class BatScript:
         self.location = "Somewhere between code and coffee [TRY ESPERSOOOO itz cool! I love it]"
         self.learning.languages = ["French", "English", "Arabic", "German"]
         self.current_obsession = "Building my own programming language (Vulpin)"
-        self.life = "Love Coffee, Cat, School"
+        self.life = "Love Coffee"
         self.motto = "NOT CLEAN CODE!!! Just make it stable Bruh"
     def say_hi(self):
         print("You can have connection with this email:")
